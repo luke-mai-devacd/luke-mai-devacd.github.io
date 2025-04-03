@@ -1,0 +1,20 @@
+/* widescreen displays */
+@media only screen and (min-width: 920px) {
+  .container {
+    /* Test to find rules later */
+  }
+}
+
+/* tablets */
+@media only screen and (max-width: 919px) {
+  .container {
+    /* Test to find rules later */
+  }
+}
+
+/* phones */
+@media only screen and (max-width: 400px) {
+  .container {
+    /* Test to find rules later */
+  }
+}
