@@ -24,7 +24,7 @@
   left: 35px;
 }
 
-#blog-title {
+.blog-title {
   border-style: dotted;
   border-color: yellowgreen;
 }
