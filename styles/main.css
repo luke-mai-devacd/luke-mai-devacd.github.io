@@ -27,6 +27,7 @@
 .blog-title {
   border-style: dotted;
   border-color: yellowgreen;
+  text-align: center;
 }
 
 body {
