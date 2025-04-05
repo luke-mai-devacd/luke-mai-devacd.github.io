@@ -23,3 +23,12 @@
   position: relative;
   left: 35px;
 }
+
+#blog-title {
+  border-color: yellowgreen;
+}
+
+body {
+  color: green;
+  background-color: black;
+}
