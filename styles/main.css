@@ -27,7 +27,12 @@
 .blog-title {
   border-style: dotted;
   border-color: yellowgreen;
+  color: black;
   text-align: center;
+}
+
+.title-div {
+  background-color: white;
 }
 
 body {
